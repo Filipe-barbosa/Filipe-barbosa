@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Filipe Barbosa</h1>
 <h3 align="center">A front-end developer passionate about processes and mentor ad PodCodar</h3>
 
-- I’m currently working on Agrotis
+- I’m currently working on Trybe
 - 🌱 I’m currently learning **TypeScript**
 - 💬 Ask me about **Agile, devops, Front End Developer**
 
